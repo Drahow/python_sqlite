@@ -1,0 +1,2 @@
+pos=0,maxnum=1,num=0,id=0,lock=1,sort=1,x=0,y=0,z=0,A=0;
+pos=1,maxnum=1,num=0,id=0,lock=1,sort=1,x=0,y=0,z=0,A=90;
