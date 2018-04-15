@@ -1,2 +1,9 @@
 pos=0,maxnum=1,num=0,id=0,lock=1,sort=1,x=0,y=0,z=0,A=0;
 pos=1,maxnum=1,num=0,id=0,lock=1,sort=1,x=0,y=0,z=0,A=90;
+pos=2,maxnum=10,num=0,id=101,lock=0,sort=0,x=0,y=0,z=0,A=190;
+pos=3,maxnum=10,num=1,id=105,lock=1,sort=1,x=50,y=70,z=90,A=180;
+
+pos=4,maxnum=10,num=1,id=104,lock=0,sort=1,x=60,y=80,z=100,A=130;
+
+
+
